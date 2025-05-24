@@ -10,6 +10,7 @@
 **Languages:** Python, C/C++, Java, MATLAB  
 **ML & CV:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Open3D, Nerfstudio, Keras  
 **Tools:** Git, MongoDB, Postman, Simulink
+
 **Platforms:** Windows, Linux, SOL Supercomputer, Jupyter, WSL  
 
 ---
