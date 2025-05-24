@@ -16,8 +16,8 @@
 
 ### 📁 Featured Projects 
 - 🤖 **[ML Algorithms](https://github.com/Samudyata/samudyata_projects/tree/main/Ml-algorithms)** — **Comparative Evaluation of Popular Machine Learning Classification Algorithms**
-- 🔊 **[Speech Emotion Recognition](https://github.com/Samudyata/samudyata_projects/tree/main/Speech%20Emotion%20Recognition%20using%20CNN-RNN%20Hybrid%20Model)** — Deep learning model to classify emotional tone in speech  
-- 🧠 **[Mental Health Chatbot](https://github.com/samudyata14/mental-health-chatbot)** — NLP chatbot for multi-label mental health classification  
+- 🔊 **[Speech Emotion Recognition](https://github.com/Samudyata/samudyata_projects/tree/main/Speech%20Emotion%20Recognition%20using%20CNN-RNN%20Hybrid%20Model)** — Hybrid CNN-RNN model to classify emotional tone in speech 
+- 🧠 **[Mental Health Chatbot](https://github.com/samudyata14/mental-health-chatbot)** — Intent-based NLP chatbot for mental wellness support
 - 🗑️ **[YOLO Trash Collecting Ro-Boat](https://github.com/samudyata14/trash-collecting-roboat)** — Real-time object detection + autonomous navigation  
 - 🔧 **[Buck Converter Design (ISRO)](https://github.com/samudyata14/buck-converter)** — Efficient PCB and thermal simulation for power systems  
 - 🧵 **[3D Mesh Inpainting with NeRF + Diffusion](https://github.com/samudyata14/nerf-mesh-inpainting)** — Hybrid geometry + vision pipeline using Objaverse  
