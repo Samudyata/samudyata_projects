@@ -20,7 +20,7 @@
 - 🔊 **[Speech Emotion Recognition](https://github.com/Samudyata/samudyata_projects/tree/main/Speech%20Emotion%20Recognition%20using%20CNN-RNN%20Hybrid%20Model)** — Hybrid CNN-RNN model to classify emotional tone in speech 
 - 🧠 **[Mental Health Chatbot](https://github.com/Samudyata/samudyata_projects/tree/main/Mental%20Health%20Chatbot)** — Intent-based NLP chatbot for mental wellness support
 - 🗑️ **[YOLO Trash Collecting Ro-Boat](https://github.com/Samudyata/samudyata_projects/tree/main/Trash-Collection-Ro-Boat)** — Real-time object detection + autonomous navigation  
-- 🔧 **[Buck Converter Design (ISRO)](https://github.com/samudyata14/buck-converter)** — Efficient PCB and thermal simulation for power systems  
+- 🔧 **[Buck Converter Design (ISRO)](https://github.com/Samudyata/samudyata_projects/tree/main/Buck%20Converter%20using%20LT8631)** — Efficient PCB and thermal simulation for power systems  
 - 🧵 **[3D Mesh Inpainting with NeRF + Diffusion](https://github.com/samudyata14/nerf-mesh-inpainting)** — Hybrid geometry + vision pipeline using Objaverse  
  
 
