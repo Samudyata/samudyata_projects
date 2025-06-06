@@ -7,7 +7,7 @@ An autonomous, low-cost aquatic robot designed to detect, collect, and manage su
 ## 📌 Project Overview
 
 🌊 **Problem**  
-Water pollution—particularly plastic waste—is escalating globally. Much of this waste floats and accumulates near shorelines, posing environmental and health threats.
+Water pollution is escalating globally. Much of this waste floats and accumulates near shorelines, posing environmental and health threats.
 
 🚤 **Solution**  
 We developed a smart, semi-autonomous robot boat that:
@@ -64,8 +64,6 @@ We developed a smart, semi-autonomous robot boat that:
 - Object detection and classification using Python + OpenCV
 - Motor control and hardware interfacing using Raspberry Pi GPIO
 - PWM-based speed and direction management
-
-![Software Flowchart](./assets/software_flowchart.png)
 
 ---
 
