@@ -27,7 +27,6 @@ To design a compact, thermally efficient DC-DC buck converter using **LT8631** c
 
 - OrCAD PCB Designer  
 - LTspice for simulation  
-- Thermal simulation tools (e.g., ANSYS, Fusion 360)  
 - [LT8631 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8631.pdf)
 
 ---
