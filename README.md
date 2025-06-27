@@ -21,7 +21,8 @@
 - 🧠 **[Mental Health Chatbot](https://github.com/Samudyata/samudyata_projects/tree/main/Mental%20Health%20Chatbot)** — Intent-based NLP chatbot for mental wellness support
 - 🗑️ **[YOLO Trash Collecting Ro-Boat](https://github.com/Samudyata/samudyata_projects/tree/main/Trash-Collection-Ro-Boat)** — Real-time object detection + autonomous navigation  
 - 🔧 **[Buck Converter Design (ISRO)](https://github.com/Samudyata/samudyata_projects/tree/main/Buck%20Converter%20using%20LT8631)** — Efficient PCB and thermal simulation for power systems  
-- 🧵 **[3D Mesh Inpainting with NeRF + Diffusion](https://github.com/samudyata14/nerf-mesh-inpainting)** — Hybrid geometry + vision pipeline using Objaverse  
+- 🧵 **[3D Mesh Inpainting with NeRF + Diffusion](https://github.com/Samudyata/samudyata_projects/tree/main/3D%20Mesh%20Inpainting%20with%20NerF%20%2B%20Diffusion)** — Hybrid geometry + vision pipeline using Objaverse
+- 📚 **[Probabilistic Topic Modeling using LDA](https://github.com/Samudyata/samudyata_projects/tree/main/Probabilistic%20Topic%20Modeling%20using%20LDA)** — LDA-based topic extraction and K-means clustering of customer reviews for retail insights
  
 
 ---
