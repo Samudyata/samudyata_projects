@@ -11,7 +11,7 @@
 **ML & CV:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Open3D, Nerfstudio, Keras  
 **Tools:** Git, MongoDB, Postman, Simulink
 
-**Platforms:** Windows, Linux, SOL Supercomputer, Jupyter, WSL  
+**Platforms:** Windows, Linux, SOL Supercomputer, WSL  
 
 ---
 
