@@ -1,7 +1,7 @@
 👋 Hi there, I'm Samudyata Sudarshan Jagirdar
 
 🎓 MS in Computer Engineering @ Arizona State University  
-💡 Passionate about Machine Learning, Computer Vision, Deep Learning and Embedded Systems  
+💡 Passionate about Machine Learning, Artificial Intelligence, Computer Vision, Deep Learning and Embedded Systems  
 🏆 Gold Medalist | Researcher | Developer  
 
 ---
