@@ -7,9 +7,12 @@
 ---
 
 **Programming**: Python, C/C++, MATLAB, SQL
+
 **Technical**: Artificial Intelligence, Machine Learning, Deep Learning, NLP, LLMs, Computer Vision, Image
 Processing, 3D Reconstruction, Embedded Systems
+
 **Software & Tools**: PyTorch, TensorFlow, Simulink, Postman, MongoDB, Grafana, Kibana, OrCAD
+
 **Soft Skills**: Problem Solving, Analytical Thinking, Team Collaboration, Time Management, Communication,
 Initiative, Adaptability
 
