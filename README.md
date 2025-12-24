@@ -23,8 +23,8 @@ Initiative, Adaptability
 ---
 
 ### 📁 Featured Projects 
-- 🛠️ **[Enhancing Agent Reliability in Interactive Tool-Calling Envs via Test-Time Scaling](https://github.com/Samudyata/samudyata_projects/tree/main/Enhancing%20Agent%20Reliability%20in%20Interactive%20Tool-Calling%20Envs%20via%20Test-Time%20Scaling)** — **Developed and Evaluated 5 frameworks, improving robustness on tau-bench**
-- 🤖 **[ML Algorithms](https://github.com/Samudyata/samudyata_projects/tree/main/Ml-algorithms)** — **Comparative Evaluation of Popular Machine Learning Classification Algorithms**
+- 🛠️ **[Enhancing Agent Reliability in Interactive Tool-Calling Envs via Test-Time Scaling](https://github.com/Samudyata/samudyata_projects/tree/main/Enhancing%20Agent%20Reliability%20in%20Interactive%20Tool-Calling%20Envs%20via%20Test-Time%20Scaling)** — Developed and Evaluated 5 frameworks, improving robustness on tau-bench
+- 🤖 **[ML Algorithms](https://github.com/Samudyata/samudyata_projects/tree/main/Ml-algorithms)** — Comparative Evaluation of Popular Machine Learning Classification Algorithms
 - 🔊 **[Speech Emotion Recognition](https://github.com/Samudyata/samudyata_projects/tree/main/Speech%20Emotion%20Recognition%20using%20CNN-RNN%20Hybrid%20Model)** — Hybrid CNN-RNN model to classify emotional tone in speech 
 - 🧠 **[Mental Health Chatbot](https://github.com/Samudyata/samudyata_projects/tree/main/Mental%20Health%20Chatbot)** — Intent-based NLP chatbot for mental wellness support
 - 🗑️ **[Trash Collecting Ro-Boat](https://github.com/Samudyata/samudyata_projects/tree/main/Trash-Collection-Ro-Boat)** — Real-time object detection + autonomous navigation  
